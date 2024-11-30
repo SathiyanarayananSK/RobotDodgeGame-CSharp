@@ -16,7 +16,7 @@ Welcome to **Robot Dodge Game**, a fast-paced 2D game where survival is key! Bui
 
 - **Player Controls:**
   - Move with `Arrow Keys`.
-  - Shoot bullets with the **left mouse click**.
+  - Shoot bullets with the `left mouse click`.
   - Quit the game anytime with `Escape`.  
 
 - **Dynamic Gameplay:**  
@@ -72,6 +72,6 @@ This project was built using **SplashKitSDK**, a fantastic library for game deve
 ## 📬 Contact
 
 Have feedback or suggestions? Feel free to reach out:  
-📧 [your-email@example.com](mailto:your-email@example.com)  
+📧 [sathiyanarayanan.s1698@gmail.com](mailto:sathiyanarayanan.s1698@gmail.com)  
 
 Enjoy playing **Robot Dodge Game**! 🎉
